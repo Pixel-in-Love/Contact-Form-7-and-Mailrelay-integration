@@ -14,4 +14,4 @@ In order to configure it, once installed and activated, you need to go to Settin
 - A text field with the id "your-name"
 - An acceptance field with the id "acceptance"
 
-[Download the plugin](#)
+[Download the plugin](https://github.com/Pixel-in-Love/Contact-Form-7-and-Mailrelay-integration/raw/main/mailrelay-api-integration.zip)
